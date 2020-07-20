@@ -25,3 +25,7 @@ V6 APD LV/Data/
 
 # system log folder
 V6 APD LV/System Log/
+
+# APD data file
+V6 APD LV/ConfigFiles/*.tdms
+V6 APD LV/ConfigFiles/*.tdms_index
