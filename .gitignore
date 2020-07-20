@@ -15,3 +15,13 @@
 *.aliases
 *.lvlps
 .cache/
+
+# Data files
+*.tdms
+*.tdms_index
+
+# data folder
+V6 APD LV/Data/
+
+# system log folder
+V6 APD LV/System Log/

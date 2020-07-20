@@ -1,0 +1,9 @@
+{
+    "Ch1Enable?":true,
+    "Ch2Enable?":true,
+    "Ch3Enable?":true,
+    "Ch1AutoGain?":true,
+    "Ch2AutoGain?":true,
+    "Ch3AutoGain?":true,
+    "AimingBeamEnable?":true
+}
