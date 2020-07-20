@@ -16,10 +16,6 @@
 *.lvlps
 .cache/
 
-# Data files
-*.tdms
-*.tdms_index
-
 # data folder
 V6 APD LV/Data/
 
@@ -29,3 +25,4 @@ V6 APD LV/System Log/
 # APD data file
 V6 APD LV/ConfigFiles/*.tdms
 V6 APD LV/ConfigFiles/*.tdms_index
+V6 APD LV/ConfigFiles/Backup/

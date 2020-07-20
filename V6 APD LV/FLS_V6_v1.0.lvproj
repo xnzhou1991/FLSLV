@@ -173,10 +173,10 @@
 				<Item Name="LJM_eWriteAddresses.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM/Functions/LJM_eWriteAddresses.vi"/>
 				<Item Name="LJM_eWriteName.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM/Functions/LJM_eWriteName.vi"/>
 				<Item Name="LJM_eWriteNames.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM/Functions/LJM_eWriteNames.vi"/>
-				<Item Name="LJM_GetHandleInfo.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM_2018_06_28/LabVIEW_LJM/Functions/LJM_GetHandleInfo.vi"/>
+				<Item Name="LJM_GetHandleInfo.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM/Functions/LJM_GetHandleInfo.vi"/>
 				<Item Name="LJM_NamesToAddresses.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM/Functions/LJM_NamesToAddresses.vi"/>
 				<Item Name="LJM_NameToAddress.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM/Functions/LJM_NameToAddress.vi"/>
-				<Item Name="LJM_OpenS.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM_2018_06_28/LabVIEW_LJM/Functions/LJM_OpenS.vi"/>
+				<Item Name="LJM_OpenS.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LabVIEW_LJM/Functions/LJM_OpenS.vi"/>
 				<Item Name="loadAndFormatValues.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tdmsutil.llb/loadAndFormatValues.vi"/>
 				<Item Name="LoadBufferForMultiListBoxAndFormat.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tdmsutil.llb/LoadBufferForMultiListBoxAndFormat.vi"/>
 				<Item Name="LogicalSort.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tdmsutil.llb/LogicalSort.vi"/>
