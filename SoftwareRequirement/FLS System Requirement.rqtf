@@ -1,0 +1,31 @@
+[Files]
+Names=Project Specifications,Cover Specificatoins
+RepositoryTool=Boost
+
+[Project Specifications]
+Cover1=Cover Specificatoins
+Cover1Position=1305@660
+GraphicPosition=1320@370
+Type=Excel
+Path=User interface specification.xlsx
+AbsolutePath=C:\Users\IntuitiveA\Documents\GitRepo\FLSLV\SoftwareRequirement\User interface specification.xlsx
+
+[Cover Specificatoins]
+GraphicPosition=1290@950
+Variable1Name=outputDir
+Variable1Value=C:\\Users\\INTUIT~1\\AppData\\Local\\Temp\\nirg17
+Variable2Name=recurseViValues
+Variable2Value=1
+Variable3Name=absoluteFiles
+Variable3Value=C:\\Users\\IntuitiveA\\Documents\\GitRepo\\FLSLV\\V6 APD LV
+Variable4Name=recurseDirValues
+Variable4Value=1
+Variable5Name=files
+Variable5Value=..\\V6 APD LV
+Variable6Name=defaultDirectory
+Variable6Value=..\\V6 APD LV
+Variable7Name=analyzeDiagrams
+Variable7Value=true
+Type=LabVIEW
+Path=..\V6 APD LV
+
