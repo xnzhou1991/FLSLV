@@ -13,9 +13,9 @@ AbsolutePath=C:\Users\IntuitiveA\Documents\GitRepo\FLSLV\SoftwareRequirement\Use
 [Cover Specificatoins]
 GraphicPosition=1290@950
 Variable1Name=outputDir
-Variable1Value=C:\\Users\\INTUIT~1\\AppData\\Local\\Temp\\nirg17
+Variable1Value=C:\\Users\\INTUIT~1\\AppData\\Local\\Temp\\nirg37
 Variable2Name=recurseViValues
-Variable2Value=1
+Variable2Value=0
 Variable3Name=absoluteFiles
 Variable3Value=C:\\Users\\IntuitiveA\\Documents\\GitRepo\\FLSLV\\V6 APD LV
 Variable4Name=recurseDirValues
