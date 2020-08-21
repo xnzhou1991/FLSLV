@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+custom error code for fluorescence lifetime imaging system
+
+
+
+
+
+
+
+
+<nifamily familyname="FLS Error" displayname="FLS Error">
+</nifamily>
+</nicomment>
+<nierror code="5001">
+Failed to connect to image processing PC. Program will shut down.
+</nierror>
+<nierror code="5002">
+355nm Laser interlock open, program will shut down.
+</nierror>
+<nierror code="5003">
+File Structure corrupted. Folder name exist but do not have correct structure.
+</nierror>
+<nierror code="5004">
+No Decon Selection
+</nierror>
+<nierror code="5005">
+Invalid PWM setting
+</nierror>
+</nidocument>
