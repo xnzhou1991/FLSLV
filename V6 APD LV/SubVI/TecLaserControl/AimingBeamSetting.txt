@@ -2,6 +2,6 @@
     "Aiming Beam COM Port":"COM3",
     "Min Current":0.00000000000000,
     "Max Current":33.6000000000000,
-    "Default Current":23.0000000000000,
-    "Frequency(Hz)":100
+    "Default Current":24.5000000000000,
+    "Frequency(Hz)":15
 }
