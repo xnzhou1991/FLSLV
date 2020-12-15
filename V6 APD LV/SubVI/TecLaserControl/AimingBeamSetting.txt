@@ -3,5 +3,5 @@
     "Min Current":0.00000000000000,
     "Max Current":30.0000000000000,
     "Default Current":30.0000000000000,
-    "Frequency(Hz)":0
+    "Frequency(Hz)":30
 }
