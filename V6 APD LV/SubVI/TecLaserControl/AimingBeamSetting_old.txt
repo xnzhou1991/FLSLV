@@ -1,6 +1,0 @@
-{
-    "Aiming Beam COM Port":"COM4",
-    "Min Current":0.00000000000000,
-    "Max Current":35.6000000000000,
-    "Default Current":22.50000000000000
-}
