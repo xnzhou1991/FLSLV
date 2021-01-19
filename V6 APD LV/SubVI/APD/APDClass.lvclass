@@ -130,13 +130,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 	</Item>
-	<Item Name="Read Gain Limits.vi" Type="VI" URL="../Read Gain Limits.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!#A!(2W&amp;J&lt;EVB?!!.1!I!"U&gt;B;7Z.;7Y!&amp;E"1!!)!"1!'#E&gt;B;7Z-;7VJ&gt;(-!!#J!=!!?!!!3%%&amp;12%.M98.T,GRW9WRB=X-!!!R"5%2$&lt;'&amp;T=S"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!+%"Q!"Y!!")116"%1WRB=X-O&lt;(:D&lt;'&amp;T=Q!!#U&amp;12%.M98.T)'FO!&amp;1!]!!-!!-!"!!(!!A!"!!%!!1!"!!*!!1!"!!+!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#Q!!!!!</Property>
+	<Item Name="Read Gain Limits(Log).vi" Type="VI" URL="../Read Gain Limits(Log).vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;$!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!#A!(2W&amp;J&lt;EVB?!!.1!I!"U&gt;B;7Z.;7Y!'E"1!!)!"1!'$U&gt;B;7Z-;7VJ&gt;(-I4'^H+1!K1(!!(A!!%B""5%2$&lt;'&amp;T=SZM&gt;G.M98.T!!!-16"%1WRB=X-A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#B!=!!?!!!3%%&amp;12%.M98.T,GRW9WRB=X-!!!N"5%2$&lt;'&amp;T=S"J&lt;A"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1346380288</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 </LVClass>
