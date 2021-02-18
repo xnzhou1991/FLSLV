@@ -247,6 +247,7 @@
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
+			<Item Name="AvgArray.vi" Type="VI" URL="../SubVI/DataManipulation/AvgArray.vi"/>
 			<Item Name="labjackm" Type="VI" URL="labjackm">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
