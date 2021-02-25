@@ -260,6 +260,7 @@
 			<Item Name="niTClk_64.dll" Type="Document" URL="niTClk_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="ReadCalibrationFile(SubVI).vi" Type="VI" URL="../SubVI/DataManipulation/ReadCalibrationFile(SubVI).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Application" Type="EXE">
