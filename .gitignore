@@ -16,7 +16,7 @@
 .cache/
 
 # data folder
-V6 APD LV/Data/
+/V6 APD LV/Data/
 
 # system log folder
 V6 APD LV/System Log/
@@ -31,7 +31,4 @@ V6 APD LV/ConfigFiles/Backup/
 V6 APD LV/ConfigFiles/SystemSetting.ini
 
 
-# system temp folder
-V6 APD LV/SystemTemp/
-
-
+/V6 APD LV/SystemTemp
