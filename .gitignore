@@ -33,3 +33,6 @@ V6 APD LV/ConfigFiles/SystemSetting.ini
 
 /V6 APD LV/SystemTemp
 /V6 APD LV/ConfigFiles/SystemSetting.ini
+/V6 APD LV/SubVI/LabJack/LJ_pin_setting.config
+/V6 APD LV/SubVI/LabJack/PWM_setting_355.config
+/V6 APD LV/SubVI/LabJack/PWM_setting_AB.config
