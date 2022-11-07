@@ -1,5 +1,5 @@
 {
-    "Ch1APDSerial#":"M00562768",
-    "Ch2APDSerial#":"M00549707",
-    "Ch3APDSerial#":"M00549708"
+    "Ch1APDSerial#":"M00570374",
+    "Ch2APDSerial#":"M00570375",
+    "Ch3APDSerial#":"M00570376"
 }
