@@ -1,0 +1,11 @@
+warning number,Alarm Code in v1.1+, Alarm Description
+515000,-1,Undefined alarm code
+515001,1,Hard limit has been triggered. Machine position is likely lost due to sudden halt. Re-homing is highly recommended.
+515002,2,Soft limit alarm. G-code motion target exceeds machine travel. Machine position retained. Alarm may be safely unlocked.
+515003,3,Reset while in motion. Machine position is likely lost due to sudden halt. Re-homing is highly recommended.
+515004,4,Probe fail. Probe is not in the expected initial state before starting probe cycle when G38.2 and G38.3 is not triggered and G38.4 and G38.5 is triggered.
+515005,5,Probe fail. Probe did not contact the workpiece within the programmed travel for G38.2 and G38.4.
+515006,6,Homing fail. The active homing cycle was reset.
+515007,7,Homing fail. Safety door was opened during homing cycle.
+515008,8,Homing fail. Pull off travel failed to clear limit switch. Try increasing pull-off setting or check wiring.
+515009,9,"Homing fail. Could not find limit switch within search distances. Try increasing max travel, decreasing pull-off distance, or check wiring."
