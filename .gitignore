@@ -29,5 +29,3 @@ V6 APD LV/ConfigFiles/Backup/
 
 # system temp files
 /V6 APD LV/SystemTemp
-/V6 APD LV/SubVI/LabJack/PWM_setting_355.config
-/V6 APD LV/SubVI/LabJack/PWM_setting_AB.config
