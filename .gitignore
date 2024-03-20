@@ -27,11 +27,7 @@ V6 APD LV/ConfigFiles/*.tdms
 V6 APD LV/ConfigFiles/*.tdms_index
 V6 APD LV/ConfigFiles/Backup/
 
-# system setting file
-V6 APD LV/ConfigFiles/SystemSetting.ini
-
 # system temp files
 /V6 APD LV/SystemTemp
-/V6 APD LV/SubVI/LabJack/LJ_pin_setting.config
 /V6 APD LV/SubVI/LabJack/PWM_setting_355.config
 /V6 APD LV/SubVI/LabJack/PWM_setting_AB.config
