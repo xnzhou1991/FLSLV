@@ -16,7 +16,7 @@
 .cache/
 
 # data folder
-/V6 APD LV/Data/
+/Data/
 
 # system log folder
 V6 APD LV/System Log/
