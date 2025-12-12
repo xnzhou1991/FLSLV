@@ -1,0 +1,38 @@
+error number,Error Code in v1.1+,Error Description
+515100,-1,Undefined error code
+515101,1,G-code words consist of a letter and a value. Letter was not found.
+515102,2,Missing the expected G-code word value or numeric value format is not valid.
+515103,3,Grbl '$' system command was not recognized or supported.
+515104,4,Negative value received for an expected positive value.
+515105,5,Homing cycle failure. Homing is not enabled via settings.
+515106,6,Minimum step pulse time must be greater than 3usec.
+515107,7,An EEPROM read failed. Auto-restoring affected EEPROM to default values.
+515108,8,Grbl '$' command cannot be used unless Grbl is IDLE. Ensures smooth operation during a job.
+515109,9,G-code commands are locked out during alarm or jog state.
+515110,10,Soft limits cannot be enabled without homing also enabled.
+515111,11,Max characters per line exceeded. Received command line was not executed.
+515112,12,Grbl '$' setting value cause the step rate to exceed the maximum supported.
+515113,13,Safety door detected as opened and door state initiated.
+515114,14,Build info or startup line exceeded EEPROM line length limit. Line not stored.
+515115,15,Jog target exceeds machine travel. Jog command has been ignored.
+515116,16,Jog command has no '=' or contains prohibited g-code.
+515117,17,Laser mode requires PWM output.
+515120,20,Unsupported or invalid g-code command found in block.
+515121,21,More than one g-code command from same modal group found in block.
+515122,22,Feed rate has not yet been set or is undefined.
+515123,23,G-code command in block requires an integer value.
+515124,24,More than one g-code command that requires axis words found in block.
+515125,25,Repeated g-code word found in block.
+515126,26,No axis words found in block for g-code command or current modal state which requires them.
+515127,27,Line number value is invalid.
+515128,28,G-code command is missing a required value word.
+515129,29,G59.x work coordinate systems are not supported.
+515130,30,G53 only allowed with G0 and G1 motion modes.
+515131,31,Axis words found in block when no command or current modal state uses them.
+515132,32,G2 and G3 arcs require at least one in-plane axis word.
+515133,33,Motion command target is invalid.
+515134,34,Arc radius value is invalid.
+515135,35,G2 and G3 arcs require at least one in-plane offset word.
+515136,36,Unused value words found in block.
+515137,37,G43.1 dynamic tool length offset is not assigned to configured tool length axis.
+515138,38,Tool number greater than max supported value.
